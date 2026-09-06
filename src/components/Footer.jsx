@@ -22,8 +22,7 @@ export default function Footer() {
             <h4>Contact</h4>
             <a
               className="footer-email"
-              // href="https://mail.google.com/mail/?view=cm&fs=1&to=robytolang@gmail.com&su=Project%20inquiry"
-              href="mailto:robytolang@gmail.com"
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=robytolang@gmail.com&su=Project%20inquiry"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Email Robin Tolang"
